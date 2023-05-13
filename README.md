@@ -1,4 +1,5 @@
 # PythonClub
+Material de apoio para o curso de fundamentos da programação com Python.
 
 ## Requisitos
 
